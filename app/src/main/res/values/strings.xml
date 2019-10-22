@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">American Football Scores</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="extra_point">Extra Point</string>
+    <string name="safety">Safety</string>
+</resources>
